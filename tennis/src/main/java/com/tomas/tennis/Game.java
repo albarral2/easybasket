@@ -11,8 +11,8 @@ import javax.swing.JPanel;
 //@SuppressWarnings("serial")
 public class Game extends JPanel {
 
-  final static int WIDTH = 300;
-  final static int HEIGHT = 400;
+  final static int WIDTH = 600;
+  final static int HEIGHT = 800;
   Ball ball;
   Racket racket;
 
